@@ -1,0 +1,9 @@
+ShipmentID,CustomerName,OriginPort,DestinationPort,Weight,Date
+1001,John Doe,New York,Los Angeles,150.5,15-05-2023
+1002,Jane Smith,Chicago,Miami,75.2,16-05-2023
+1003,Bob Johnson,Seattle,Houston,200,17-05-2023
+1004,Alice Brown,Boston,San Francisco,120.8,18-05-2023
+1005,Charlie Davis,Denver,Atlanta,90.3,19-05-2023
+1006,Eva Green,Portland,Phoenix,180.7,20-05-2023
+1007,Frank White,Las Vegas,Orlando,135.2,21-05-2023
+1008,Grace Lee,Detroit,Dallas,160.9,22-05-2023
